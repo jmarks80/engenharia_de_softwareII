@@ -24,6 +24,7 @@ public class Ebook extends Livro implements Promocional{
     public boolean aplicaDescontoDe(double percentagem) {
         if (percentagem <= 30 / 100) return true;
         else return false;
+		// teste pull
     }
     
 }
