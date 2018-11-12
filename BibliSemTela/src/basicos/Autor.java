@@ -18,6 +18,8 @@ public class Autor {
 
     public Autor(){
     }
+	
+	//alterado pelo usuario 1... :)
     
     public Autor(String nomePar,String emailPar,String cpfPar){
         this.nome = nomePar;
