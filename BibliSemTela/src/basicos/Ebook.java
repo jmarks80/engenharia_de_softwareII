@@ -9,6 +9,8 @@ package basicos;
  *
  * @author 05220149
  */
+ 
+ //alterado pelo usuário 2 ---(
 public class Ebook extends Livro implements Promocional{
     public Ebook(){
     }
